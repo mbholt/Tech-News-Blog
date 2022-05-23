@@ -1,5 +1,5 @@
 {
-  "name": "module14",
+  "name": "Tech Blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^28.1.0"
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.16"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
